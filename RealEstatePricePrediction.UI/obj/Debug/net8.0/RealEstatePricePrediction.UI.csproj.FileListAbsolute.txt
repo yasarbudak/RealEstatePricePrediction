@@ -1,0 +1,15 @@
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\bin\Debug\net8.0\RealEstatePricePrediction.UI.exe
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\bin\Debug\net8.0\RealEstatePricePrediction.UI.deps.json
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\bin\Debug\net8.0\RealEstatePricePrediction.UI.runtimeconfig.json
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\bin\Debug\net8.0\RealEstatePricePrediction.UI.dll
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\bin\Debug\net8.0\RealEstatePricePrediction.UI.pdb
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\obj\Debug\net8.0\RealEstatePricePrediction.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\obj\Debug\net8.0\RealEstatePricePrediction.UI.AssemblyInfoInputs.cache
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\obj\Debug\net8.0\RealEstatePricePrediction.UI.AssemblyInfo.cs
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\obj\Debug\net8.0\RealEstatePricePrediction.UI.csproj.CoreCompileInputs.cache
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\obj\Debug\net8.0\RealEstatePricePrediction.UI.sourcelink.json
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\obj\Debug\net8.0\RealEstatePricePrediction.UI.dll
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\obj\Debug\net8.0\refint\RealEstatePricePrediction.UI.dll
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\obj\Debug\net8.0\RealEstatePricePrediction.UI.pdb
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\obj\Debug\net8.0\RealEstatePricePrediction.UI.genruntimeconfig.cache
+D:\Projects\RealEstatePricePrediction\RealEstatePricePrediction.UI\obj\Debug\net8.0\ref\RealEstatePricePrediction.UI.dll

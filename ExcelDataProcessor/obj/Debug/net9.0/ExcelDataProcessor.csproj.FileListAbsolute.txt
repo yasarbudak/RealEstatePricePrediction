@@ -1,0 +1,6 @@
+D:\Projects\RealEstatePricePrediction\ExcelDataProcessor\obj\Debug\net9.0\ExcelDataProcessor.csproj.AssemblyReference.cache
+D:\Projects\RealEstatePricePrediction\ExcelDataProcessor\obj\Debug\net9.0\ExcelDataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RealEstatePricePrediction\ExcelDataProcessor\obj\Debug\net9.0\ExcelDataProcessor.AssemblyInfoInputs.cache
+D:\Projects\RealEstatePricePrediction\ExcelDataProcessor\obj\Debug\net9.0\ExcelDataProcessor.AssemblyInfo.cs
+D:\Projects\RealEstatePricePrediction\ExcelDataProcessor\obj\Debug\net9.0\ExcelDataProcessor.csproj.CoreCompileInputs.cache
+D:\Projects\RealEstatePricePrediction\ExcelDataProcessor\obj\Debug\net9.0\ExcelDataProcessor.sourcelink.json
